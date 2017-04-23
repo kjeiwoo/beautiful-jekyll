@@ -26,28 +26,20 @@ subtitle: Why you'd want to go on a date with me
 ## 학술활동	
 > 미국 족부 족관절 학회 (AOFAS) Presentation -   
 > "Effect of Lasteral Soft Tissue Release on sesamoid Position in Hallux Valgus Surgery"   
-
 > 미국 족부 족관절 학회 (AOFAS) e-poster -   
 > "Low Tibial Osteotomy Using Tricorticate Iliac Wing Allograft Fixed with Two Low-profile Tubular Plates"   
-
 > 대한 정형외과 춘계학회, 족부족관절학회 발표 - "부주상골  병변에 의한 족근관절 내측 충돌"   
-
 > 삼성서울병원 2014 PWS 심포지엄 발표 - "PWS에서의 정형외과적 문제(DDH, 발달성 고관절 이형성증)"   
-
 > 족부족관절학회 추계 분과 학회 발표 - "무지외반증 수술에 있어서의 외측 연부 조직 술식의 효용성"   
-
 > 소아정형외과 추계 분과 학회 발표 - 증례 발표 "연골 무형성증 환자에서의 슬관절의 wind-blown 변형"
  
 ## 논문
 > CiOS   
 > "The Efficacy of Percutaneous Lateral Hemiepiphysiodesis on Angular Correction  in Idiopathic Adolescent Genu Varum "
-
 > Foot and Ankle International   
 > "Effect of Lasteral Soft Tissue Release on sesamoid Position in Hallux Valgus Surgery"   
-
 > The Journal of Foot and Ankle Surgery   
 > "Incidence of Peroneal Tendinopathy After Application of a Posterior Antiglide Plate for Repair of Supination External Rotation Lateral Malleolar Fractures"   
-
 > The Journal of Foot and Ankle Surgery   
 > "Fixation of a Posteromedial Osteochondral Lesion of the Talus Using a Three-Portal Posterior Arthroscopic Technique"
 
