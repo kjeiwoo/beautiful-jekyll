@@ -11,7 +11,7 @@ theme                    : minimal-mistakes-jekyll
 locale                   : "en"
 title                    : "Doing TAITAN"
 title_separator          : "|"
-name                     : "Daniel Woo (우경제)"
+name                     : "Kyungjei Woo"
 description              : "An amazing website."
 url                      : "https://kjeiwoo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
