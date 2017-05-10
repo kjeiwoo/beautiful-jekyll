@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kyungjei Woo (Daniel Woo)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul, South Korea (Republic of Korea)"
+  email            : "spikyedge@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,11 +102,12 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/os_kjwoo"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UCfd0r94WQ_0VjvaxcBCuByA"
+                      # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
