@@ -9,13 +9,13 @@ theme                    : minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "en"
-title                    : "Live with passion"
+title                    : "TAITAN's Blog"
 title_separator          : "|"
 name                     : "Daniel Woo (우경제)"
 description              : "An amazing website."
-url                      : "https://wookj.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kjeiwoo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "kjeiwoo/kjeiwoo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyungjei Woo (Daniel Woo)"
-  avatar           : "/assets/images/bio-photo-wkj.jpg"
+  avatar           : "/assets/images/bio-photo-wkj.jpeg"
   bio              : "I am an amazing person."
   location         : "Seoul, South Korea (Republic of Korea)"
   email            : "spikyedge@gmail.com"
