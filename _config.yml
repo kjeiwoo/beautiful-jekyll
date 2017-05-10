@@ -9,7 +9,7 @@ theme                    : minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "en"
-title                    : "TAITAN's Blog"
+title                    : "Doing TAITAN"
 title_separator          : "|"
 name                     : "Daniel Woo (우경제)"
 description              : "An amazing website."
