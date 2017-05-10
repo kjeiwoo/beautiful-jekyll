@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyungjei Woo (Daniel Woo)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo-wkj.jpg"
   bio              : "I am an amazing person."
   location         : "Seoul, South Korea (Republic of Korea)"
   email            : "spikyedge@gmail.com"
