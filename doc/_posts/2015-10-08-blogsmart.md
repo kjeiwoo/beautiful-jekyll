@@ -1,7 +1,8 @@
 ---
 title: "스마트폰 약정 만료"
-excerpt: "Post displaying the various ways of highlighting code in Markdown."
-author: Woo
+excerpt: "매일 매일 꿈을 이뤄가는 삶"
+author: kyungjeiWoo
+permalink: /docs/_post/blog
 layout: post
 last_modified_at: 2015-10-08
 header:
@@ -10,6 +11,8 @@ tags:
   - smartphone
   - softbank
 ---
+
+
 
 외래를 보는 중 드르륵
 
