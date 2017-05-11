@@ -1,0 +1,10 @@
+# /_data/authors.yml
+
+
+Woo:
+  name: "Kyugjei Woo"
+  uri: "http://www.kjwoo.com"
+  email: "spikyedge@gmail.com"
+  bio: "I do like a titan."
+  avatar: "/assets/images/bio-photo-wkj.jpeg"
+  twitter: "os_kjwoo"

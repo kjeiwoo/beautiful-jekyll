@@ -1,17 +1,17 @@
 ---
-id: 30
-title: 'BLoG | 스마트폰 약정 만료되다 &#038; Softbank'
-date: 2015-10-08T16:10:42+00:00
-author: kyungjeiwoo
+title: "스마트폰 약정 만료"
+excerpt: "Post displaying the various ways of highlighting code in Markdown."
+author: Woo
 layout: post
-guid: http://kjwoo.com/oh/?p=30
-permalink: /2015/10/08/blogsmart/
-categories:
-  - BLoG
+last_modified_at: 2015-10-08
+header:
+  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 tags:
+  - smartphone
   - softbank
 ---
-외래를 보는 중 드르륵&#8230;
+
+외래를 보는 중 드르륵
 
 스마트폰 문자를 나중에 확인했다.
 
