@@ -3,10 +3,7 @@ title: "스마트폰 약정 만료"
 excerpt: "매일 매일 꿈을 이뤄가는 삶"
 author: kyungjeiWoo
 permalink: /docs/_post/blog
-layout: post
 last_modified_at: 2015-10-08
-header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 tags:
   - smartphone
   - softbank
