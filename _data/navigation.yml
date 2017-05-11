@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: https://wookj.github.io/about/
+    url: /_pages/
   - title: "Orthopedics"
-    url: https://wookj.github.io/os/
-  - title: "Posts"
-    url: /year-archive/
+    url: /doc/_post/os/
+  - title: "blog"
+    url: /doc/_post/blog/
+  - title: "books"
+    url: /doc/_post/books/
 
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
