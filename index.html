@@ -1,29 +1,56 @@
 ---
-layout: home
-author_profile: false
+layout: default
 ---
-<article class="row">
-  <section class="small-12 large-8 columns page-content">
 
-<h2>Source code <a href="https://github.com/chrisanthropic/slim-pickins-jekyll-theme">here</a></h2>
+<div class="header-container jumbotron">
+    <div class="container">
+        <h1>Woo's project pages</h1>
+        <p>최근에는 ekyll theme를 이용한 페이지를 제작 중에 있습니다.</p>
+        <p><a class="btn btn-primary btn-lg" href="{{ "/docs/home/" | prepend: site.baseurl }}" role="button">Learn more</a></p>
+    </div>
+</div>
 
-<p>Slim Pickins is what I consider to be a minimal 'core' theme with everything I need to quickly develop new themes for Jekyll.</p>
 
-<h2>Basic features include:</h2>
+<div class="container">
 
-  <ul>
-    <li>Jekyll 3.0 Compatibility</li>
-    <li>SASS</li>
-    <li>Minimal Foundation Zurb 6 integration</li>
-    <li>Responsive grid</li>
-    <li>Responsive navigation</li>
-    <li>Optional full-width banner</li>
-    <li>Sticky footer</li>
-    <li><strong>Javascript free</strong></li>
-    <li>Custom Rakefile with tasks for deploying and notifying search engines about updates</li>
-    <li>image_optim plugin to optimize all images</li>
-    <li>Basic SEO</li>
-  </ul>
-  </section>
-    {% include asides/recent_posts.html %}
-</article>
+    <div class="row">
+        <div class="col-md-6">
+            <h2 class="header-light regular-pad">무엇을 하고 있는가?</h2>
+            <blockquote>
+              <p>기존에는 워드프레스를 이용해서 블로그를 운영해왔다.( 기존 <a href="http://www.kjwoo.com>"KJWOO.COM</a>)
+              하지만 자유롭게 사이트 자체를 내 마음대로 변화 시키는 것에 제한이 있어 정적 도구라는 Jekyll theme를 github를 이용해서 만들어보기로 했다.
+              ruby를 공부해야할지도 몰라 더 호기심이 들었는지 모른다. 일단 기존 wordpress 글들을 수정하지는 못했지만 이곳으로 옮기고 만족스러우면 정식 page로 다시 옮길 얘정이다.
+              </p>
+            </blockquote>
+        </div>
+        <div class="col-md-6 text-center">
+            <img src="img/jekyll.png" alt="" class="img-responsive">
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+        <div class="col-sm-4">
+            <h1 class="text-center"><i class="fa fa-pencil" aria-hidden="true"></i></h1>
+            <h3 class="text-center">Easy to install and publish</h3>
+            <p>Get started by clonening source into GitHub account of your project. Thanks to <a href="https://pages.github.com">GitHub Pages</a>,
+              it will automatically be compiled and publsihed under your project's subdomain under github.io.
+            </p>
+        </div>
+        <div class="col-sm-4">
+            <h1 class="text-center"><i class="fa fa-cogs" aria-hidden="true"></i></h1>
+            <h3 class="text-center">Modular Styling and Templating</h3>
+            <p>This template uses <a href="https://github.com/twbs/bootstrap-sass">bootstrap-sass</a> as boilerplate style.
+            You can tweak and customize any sass variable in <code>_sass/variables.scss</code> for different color set, font options, etc.</p>
+        </div>
+        <div class="col-sm-4">
+            <h1 class="text-center"><i class="fa fa-code-fork" aria-hidden="true"></i></h1>
+            <h3 class="text-center">Git based source control</h3>
+            <p>Leverege from Git version control system by
+              maintaining your documentation along with the source code; publish the page when you merge to the master branch.</p>
+        </div>
+    </div>
+
+
+</div>
