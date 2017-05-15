@@ -1,14 +1,15 @@
 # Site settings
-title: GreenT
+title: Writer Woo' Blog
 email: spikyedge@gmail.com
 description: >
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
 
-baseurl: "/greent" # the subpath of your site, e.g. /blog/
-url: https://kjeiwoo.github.io/greent # the base hostname & protocol for your site
-git_address: https://github.com/kjeiwoo/greent
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+baseurl: "https://kejwoo.github.io/" # the subpath of your site, e.g. /blog/
+url: https://kjeiwoo.github.io # the base hostname & protocol for your site
+git_address: https://github.com/kjeiwoo
+
+# git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # Build settings
 markdown: kramdown
