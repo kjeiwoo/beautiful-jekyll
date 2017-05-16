@@ -1,6 +1,6 @@
 ---
 title: Customization
-permalink: /docs/customization/
+permalink: /os/customization/
 ---
 
 This template uses [bootstrap-sass](https://github.com/twbs/bootstrap-sass) with [bootwatch paper theme](https://bootswatch.com/paper/)'s custom sass variables.
