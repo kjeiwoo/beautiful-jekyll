@@ -1,10 +1,10 @@
 ---
-title: Welcome
+title: 정형외과 사용 설명서 (How to use OS)
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Getting started
+## 시작하기 (Getting started)
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
