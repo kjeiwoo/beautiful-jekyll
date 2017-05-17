@@ -6,7 +6,8 @@
 
 - title: Orthopedics(정형외과)
   docs:
-  - mpfs
-  - cheatsheet
   - font-awesome
+  - mpfs
   - elbow-pain
+
+  # - cheatsheet
