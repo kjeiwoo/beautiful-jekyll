@@ -2,10 +2,11 @@
   docs:
   - home
   - customization
-  - mpfs
 
-- title: Examples
+
+- title: Orthopedics
   docs:
   - cheatsheet
   - font-awesome
   - bootstrap
+  - mpfs
