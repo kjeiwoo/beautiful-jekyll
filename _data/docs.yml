@@ -1,13 +1,16 @@
 - title: Getting Started
   docs:
   - home
-  - customization
+
 
 
 - title: Orthopedics(정형외과)
   docs:
-  - font-awesome
   - mfs
   - elbow-pain
-  - cheatsheet
+  - tsh
+  - cmp
+  - lld
+  - hv
+  - acc-navicular
   - gout
