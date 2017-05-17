@@ -1,5 +1,5 @@
 ---
-title: 근막통증증후군
+title: 근막 통증 증후군
 permalink: /docs/musclops/
 ---
 
