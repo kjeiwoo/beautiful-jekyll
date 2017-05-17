@@ -1,6 +1,6 @@
 ---
 title: 팔꿈치 통증
-permalink: /docs/bootstrap/
+permalink: /docs/elbow-pain/
 ---
 
 
