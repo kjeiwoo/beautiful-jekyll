@@ -1,12 +1,12 @@
-- title: Start
+- title: 홈
   url: "/"
   side: left
 
-- title: Getting Started
+- title: 병원소개
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: 관절 클리닉
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "공지사항"
   url: "/headers/"
   side: left
   dropdown:
@@ -59,17 +59,17 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: 블로그
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "검색"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "연락하기"
   url: "/contact/"
   side: right
