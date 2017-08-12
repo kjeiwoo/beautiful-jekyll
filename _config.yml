@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-#title: '우경제 정형외과'
+title: '우경제 정형외과'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-#slogan: '관절 수술 전문'
+slogan: '관절 수술 전문'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '우경제 정형외과는 관절 수술, 단지증 연장술, 휜다리 교정술 전문 병원입니다.'
@@ -42,7 +42,7 @@ urlimg: 'https://kjeiwoo.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-# logo: "logo.png"
+  logo: "logo.png"
 
 # Gems
 gems:
