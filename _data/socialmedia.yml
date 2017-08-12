@@ -1,7 +1,7 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/kjeiwoo
   class: icon-github
-  title: Code und mehr...
+  title: Code and more...
 
 - name: YouTube
   url: http://www.youtube.com/PhlowMedia
@@ -9,7 +9,7 @@
   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/os_kjwoo
   class: icon-twitter
   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
