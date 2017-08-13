@@ -9,7 +9,9 @@ tags:
     - design
     - background color
     - header
-header: no
+header:
+    image: header_unsplash_2-970x.jpg
+    pattern: lengthening.png
 ---
 *Silence is beautiful.* Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: *Feeling Responsive* got you covered. Just say *no* like this:
 <!--more-->
