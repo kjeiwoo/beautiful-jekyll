@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Roadmap"
+title: "오시는 길"
 subheadline: "ToDo-List &amp; Ideas"
-teaser: "Here are some ideas and features I want to implement in the future."
+teaser: "우경제 정형외과로 오시는 길입니다"
 header:
    image_fullwidth: "header_roadmap_3.jpg"
-permalink: "/roadmap/"
+permalink: "/오시는 길/"
 ---
 
 <!-- * Daum 지도 - 지도퍼가기 -->
