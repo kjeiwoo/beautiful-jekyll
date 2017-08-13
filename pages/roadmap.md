@@ -4,8 +4,8 @@ title: "오시는 길"
 subheadline: "ToDo-List &amp; Ideas"
 teaser: "우경제 정형외과로 오시는 길입니다"
 header:
-   image_fullwidth: "header_roadmap_3.jpg"
-permalink: "/오시는 길/"
+   image_fullwidth: "oshome.png"
+permalink: "/roadmap/"
 ---
 
 <!-- * Daum 지도 - 지도퍼가기 -->
