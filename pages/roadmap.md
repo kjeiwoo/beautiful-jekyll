@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "오시는 길"
-subheadline: "ToDo-List &amp; Ideas"
+subheadline: ""
 teaser: "우경제 정형외과로 오시는 길입니다"
 header:
    image_fullwidth: "oshome.png"
