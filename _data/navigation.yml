@@ -35,27 +35,27 @@
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: "어깨"
+    url: "/design/shoulder/"
+  - title: "무릎"
+    url: "/design/knee/"
+  - title: "발, 발목"
+    url: "/design/foot/"
+  - title: "휜다리 수술"
+    url: "/design/varusnvalgus/"
+  - title: "줄기세포 치료"
+    url: "/design/stemcell/"
+  - title: "단지증 연장술(손,발)"
+    url: "/design/lengthening/"
+#  - title: "No Header but Image"
+#    url: "/design/no-header-but-image/"
 
 - title: 공지사항
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
+  - title: "병원소식"
+    url: "/news/"
   - title: "오시는 길"
     url: "/roadmap/"
 
