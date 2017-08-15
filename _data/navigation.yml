@@ -7,6 +7,10 @@
   side: left
 
 - title: 진료안내
+  url: "/information/"
+  side: left
+
+- title: 진료안내
   url: "/design/"
   side: left
   dropdown:

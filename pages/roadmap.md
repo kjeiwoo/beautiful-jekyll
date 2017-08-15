@@ -3,8 +3,6 @@ layout: page
 title: "우경제정형외과 오시는길"
 subheadline: ""
 teaser: "쉽게 찾아오시는 방법을 알려드립니다"
-header:
-   image_fullwidth: "map.png"
 permalink: "/roadmap/"
 ---
 
