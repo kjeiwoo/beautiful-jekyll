@@ -2,6 +2,7 @@
 layout: page-fullwidth
 title:  "진료안내"
 teaser: "진료안내"
+header: no
 permalink: "/information/"
 ---
 

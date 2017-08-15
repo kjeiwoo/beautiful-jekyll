@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "우경제정형외과 소개"
 teaser: "원장 인사말"
+header: no
 
 permalink: "/intro/"
 ---
