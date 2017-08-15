@@ -6,18 +6,11 @@ teaser: "원장 인사말"
 
 permalink: "/intro/"
 ---
-1. Open `_config.yml` and work it through, it's well documented
-1. Add your own `logo.png` to `/assets/img/`.
-1. Open `_data/socialmedia.yml` and add your own social media links.
-1. Open `_data/navigation.yml` and customize your navigation.
-1. Open `_data/language.yml` and translate the theme if necessary.
-1. Open `_data/services.yml` and customize links in the footer.
-1. Open `_data/network.yml` and customize links in the footer.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
-1. Make it yours and add your own content.
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+<div class="row">
+  <div class="small-11 small-centered columns">
+  <img src="{{ site.urlimg }}intro.png" alt="병원소개">
+  
+  </div>
+</div>
 
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
