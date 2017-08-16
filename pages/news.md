@@ -8,38 +8,8 @@ header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/news/"
 ---
-2015-11-10 // Version 1.91
-:   I added a nasty hack to highlight the homepage in the topbar navigation. To do it, you have to add `homepage: true` to your homepage. The pages *404* and *search* are now excluded from the sitemap.
 
-2015-10-29 // Version 1.9
-:   I needed a call for action button on the frontpage to get your awareness for the new and fresh [*Feeling Responsive*-Newsletter](https://tinyletter.com/feeling-responsive) which informs you about new features. Now you can use it, too. Just have a look into *pages/pages-root-folder/index.md* to delete or use it. Uh, there were some images missing and the video-template didn't show up correct. I use now `{% raw %}{{ layout.format }}{% endraw %}` to inject the class of a layout in `default.html` into `<body>` to make it work.
 
-2015-10-27 // Version 1.8
-:   *Feeling Responsive* works smoothly with [Jekyll 3.0](http://jekyllrb.com/news/2015/10/26/jekyll-3-0-released/). I added a Gemfile with the pagination gem *jekyll-paginate* so that paginate works. And now there is also a [bones-version](https://github.com/Phlow/feeling-responsive/tree/bare-bones-version) available to get a clean project started right from the beginning.
-
-2015-10-18 // Version 1.7
-:   Now with audio- and video-player [mediaelement.js]({{ site.url }}/design/mediaelement_js/). Added new gallery include. Changed names again... Sorry.
-
-2015-08-07 // Version 1.5
-:   Simplified includes syntax. The `.html`-ending is not needed anymore. Makes it simpler to read, write and use.
-
-2015-08-07 // Version 1.4
-:   Lots of improvements done by [Róbert Papp aka TWiStErRob](https://github.com/TWiStErRob). Now with Atom.xml, better Sitemap, improved and slicker code, and many more bugfixes... **Thank you, Róbert!**
-
-2015-06-29 // Version 1.3
-:   Added the possibility of using [tawk.to][8] via front matter switch `tawkto: true` in front matter. Thank you [Juan Jose Amor Iglesias][9] for the suggestion.
-
-2015-05-04 // Version 1.2.1
-:   Added `meta_title` to `<head>`. Use it in frontmatter for SEO purposes. 
-
-2015-04-28 // Version 1.2
-:   Put some nice Schema.org-Meta-Data into the video-template for better SEO. If you want to know how to use the data, have a look into the front matter of the [video]({{ site.url }}/design/video/).
-
-2015-03-30 // Version 1.2
-:   Added [alert-include]({{ site.url }}/documentation/#alert-embed-an-alert-in-your-content) and structured Sass-files.
-
-2015-03-25  // Video
-:   Made a new [video tutorial](https://www.youtube.com/embed/rLS-BEvlEyY)
 
 <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/rLS-BEvlEyY" frameborder="0" allowfullscreen></iframe></div><!-- /.flex-video -->
 
