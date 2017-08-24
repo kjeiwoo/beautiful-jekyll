@@ -14,12 +14,11 @@ permalink: "/information/"
   </div>
 </div>
 
-# Kyungjei Woo, MD
+## Kyungjei Woo, MD
 ### Undergraduate
 Medical College of Yonsei   
 Yonsei-ro, Seodaemun-gu, Seoul   
 Doctor of Medicine   
-2006
 
 ### Residency
 Orthopedic Residency   
