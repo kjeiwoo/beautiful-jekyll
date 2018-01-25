@@ -3,10 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Fatboy
+title: Dr. Woo의 블로그
 email: zorba10x@gmail.com
 description: Everything I like
-url: https://kjeiwoo.github.io/fatboy # the base hostname & protocol for your site
+url: https://kjeiwoo.github.io/
+# the base hostname & protocol for your site
 
 
 #
@@ -33,10 +34,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: FatBoy
-  avatar: leonids-logo.png
-  job: "Biginning Developer"
-  bio: "A beginning developer who loves studying awesome things. Also work as a orthopedic surgeon in Seoul, South Korea."
+  name: Dr. WOO (우 경 제)
+  avatar: logo.png
+  job: "Awaken Daydreamer"
+  bio: "연세본우정형외과 원장 / 신기한 것을 공부하기 좋아하는 / 귀여운 세 아이의 아빠입니다"
   email: zorba10x@gmail.com
   disqus-shortname: kjwoo
   twitter: spikyedge #username

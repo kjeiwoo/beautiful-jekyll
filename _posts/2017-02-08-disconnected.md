@@ -1,3 +1,12 @@
+---
+layout: post
+title: "연결 끊기"
+excerpt: "facebook 지우기"
+categories: [paragraph, feature photo]
+author: Dr. WOO
+comments: true
+---
+
 이번 주 월요일부터 facebook을 지웠고 접속하지 않기로 했다.   
 social media 접속이 내 생활에 크게 도움이 되지 않고 시간을 잡아먹는 것으로 파악되었기 때문이다.   
 무엇이든 표출하는 공간으로 생각했었는데, 그저 혼자 이야기들을 떠들고 봐주길 원하는 몸짓 같이 느껴졌다.   
