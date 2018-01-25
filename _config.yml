@@ -34,10 +34,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Dr. WOO (우 경 제)
+  name: Daniel Woo
   avatar: logo.png
   job: "Awaken Daydreamer"
-  bio: "연세본우정형외과 원장 / 신기한 것을 공부하기 좋아하는 / 귀여운 세 아이의 아빠입니다"
+  bio: "연세본우정형외과 원장 [우경제] / 신기한 것을 공부하기 좋아하는, 귀여운 세 아이의 아빠입니다"
   email: zorba10x@gmail.com
   disqus-shortname: kjwoo
   twitter: spikyedge #username

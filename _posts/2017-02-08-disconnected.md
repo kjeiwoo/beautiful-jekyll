@@ -3,7 +3,8 @@ layout: post
 title: "연결 끊기"
 excerpt: "facebook 지우기"
 categories: [paragraph, feature photo]
-author: Dr. WOO
+author: Dr. WOOimage:
+  feature: https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250
 comments: true
 ---
 
