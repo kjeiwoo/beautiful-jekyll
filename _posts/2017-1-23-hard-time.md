@@ -1,3 +1,14 @@
+---
+layout: post
+title: "독감"
+excerpt: "나를 돌아보다"
+categories: [paragraph, feature photo]
+author: Dr. WOO
+image:
+  feature: https://www.victoriapointsurgery.com.au/gp/wp-content/uploads/2015/04/flu2.jpg
+comments: true
+---
+
 지난 주는 내가 태어나서 가장 높은 열을 가장 오래 앓았던 한 주였다.  
 열이 난다는 것은 아픔의 종류 중에 또다른 종류임을 이제서야 절실히 느끼게 되었다.  
 어느 순간 정신을 잃고 잠이 들었다가 가픈 숨을 쉬면서 멍한 머리로  
