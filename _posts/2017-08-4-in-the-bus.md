@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "버스를 타다."
-excerpt: "버스 안에서"
+title: "버스를 잡아 타다."
+excerpt: "기회를 잡아 타기"
 categories: [paragraph, feature photo]
 author: Dr. WOO
 image:
-  feature: http://starvstheforcesofevil.wikia.com/wiki/File:S1E7_Marco_trying_to_catch_up_with_the_bus.png
+  feature: https://vignette.wikia.nocookie.net/star-and-the-forces-of-evil/images/b/b5/S1E7_Marco_trying_to_catch_up_with_the_bus.png/revision/latest?cb=20150414213737
 comments: true
 ---
 
