@@ -5,7 +5,8 @@ excerpt: "명상-아무것도 안하기 혹은 나를 관찰하기"
 categories: [paragraph, feature photo]
 author: Dr. WOO
 image:
-  feature: https://www.mindful.org/wp-content/uploads/Meditation_Goleman.jpg
+  feature: 
+  https://www.mindful.org/wp-content/uploads/Meditation_Goleman.jpg
 comments: true
 ---
 
