@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "meditation"
-excerpt: "명상-아무것도 안하기 혹은 나를 관찰하기"
+excerpt: "명상, 아무것도 안하기 혹은 나를 관찰하기"
 categories: [paragraph, feature photo]
 author: Dr. WOO
 image:
