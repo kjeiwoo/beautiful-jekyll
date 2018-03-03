@@ -5,11 +5,9 @@ excerpt: "명상, 아무것도 안하기 혹은 나를 관찰하기"
 categories: [paragraph, feature photo]
 author: Dr. WOO
 image:
-  feature: 
-  https://www.mindful.org/wp-content/uploads/Meditation_Goleman.jpg
+  feature: https://mindful.org/wp-content/uploads/Meditation_Goleman.jpg
 comments: true
 ---
-
 
 명상을 시작하면서 굉장히 좋은 경험을 하게 되었다.   
 
