@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "꾸준히 하기"
-excerpt: "누적되는 삶, 사명, 업, 스스로 세뇌시키기"
+title: "도서 | 자기 통찰"
+excerpt: "어떻게 원하는 내가 될 것인가"
 categories: [paragraph, feature photo]
 author: Dr. WOO
 image:
-  feature: http://moneyman.kr/wp/wp-content/uploads/2017/04/insight_20170421.jpg
+  feature: http://image.yes24.com/momo/TopCate1800/MidCate005/179942557.jpg
 comments: true
 ---
 
